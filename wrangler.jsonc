@@ -17,8 +17,8 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
+      "binding": "NAVP_ANALYSIS",
+      "dataset": "NavPanalysis"
     }
   ],
   "kv_namespaces": [
